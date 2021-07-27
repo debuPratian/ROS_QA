@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-27T19:24:31 IST" name="Default suite" finished-at="2021-07-27T19:24:41 IST" duration-ms="9426">
+    <groups>
+    </groups>
+    <test started-at="2021-07-27T19:24:31 IST" name="Default test" finished-at="2021-07-27T19:24:41 IST" duration-ms="9426">
+      <class name="com.ros.qa.testCases.LandingPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ros.qa.testCases.LandingPageTest@4cc8eb05]" started-at="2021-07-27T19:24:31 IST" name="setUp" finished-at="2021-07-27T19:24:40 IST" duration-ms="8321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="landingPageTitleTest()[pri:1, instance:com.ros.qa.testCases.LandingPageTest@4cc8eb05]" started-at="2021-07-27T19:24:40 IST" name="landingPageTitleTest" finished-at="2021-07-27T19:24:40 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- landingPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ros.qa.testCases.LandingPageTest@4cc8eb05]" started-at="2021-07-27T19:24:40 IST" name="tearDown" finished-at="2021-07-27T19:24:41 IST" duration-ms="1004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ros.qa.testCases.LandingPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
